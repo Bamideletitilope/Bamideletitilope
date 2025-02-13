@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bamideletitilope
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning web designing, css, JavaScript
+- 👀 I’m interested in software development and cloud Engineering.
+- 🌱 I’m a Full Stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
